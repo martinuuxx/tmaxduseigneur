@@ -1,0 +1,29 @@
+body {
+	text-align: center; 
+background: grey;
+font-family: arial;
+}
+
+
+h1 {color: black;}
+h2{color: black; }
+
+ul{text-align: center;}
+
+.frame{
+	background: #C1BFB5;
+	padding: 50px;
+	margin: 50px;
+	border:solid 5px black;
+	border-radius: 10px;
+	box-shadow: 10px 10px 10px grey;
+	}
+
+	.circle-photo
+	with:250px;
+	height: 250px;
+	border: none;
+	border-radius : 125px;
+	border-radius: 125px;
+	ect-fit:cover;
+	box-shadow:10px 10px 10px black: 
